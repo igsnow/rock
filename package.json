@@ -9,7 +9,7 @@
     "babel-preset-env": "^1.7.0",
     "bufferutil": "^4.0.1",
     "etl-collections": "0.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html-pdf": "^2.2.0",
     "jquery": "^3.5.1",
     "md5": "^2.3.0",
