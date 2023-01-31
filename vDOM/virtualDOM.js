@@ -8,6 +8,8 @@ function Element({tagName, props, children}) {
     this.children = children || []
 }
 
+111
+
 // 页面渲染函数
 Element.prototype.render = function () {
     let el = document.createElement(this.tagName)
